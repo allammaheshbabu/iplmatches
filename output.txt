@@ -1,0 +1,22 @@
+[MI Vs RR, MI Vs RCB, MI Vs CSK, MI Vs GG, MI Vs LSG, MI Vs KKR, MI Vs SRH, MI Vs DC, MI Vs PNGB, RR Vs RCB, RR Vs CSK, RR Vs GG, RR Vs LSG, RR Vs KKR, RR Vs SRH, RR Vs DC, RR Vs PNGB, RCB Vs CSK, RCB Vs GG, RCB Vs LSG, RCB Vs KKR, RCB Vs SRH, RCB Vs DC, RCB Vs PNGB, CSK Vs GG, CSK Vs LSG, CSK Vs KKR, CSK Vs SRH, CSK Vs DC, CSK Vs PNGB, GG
+Vs LSG, GG Vs KKR, GG Vs SRH, GG Vs DC, GG Vs PNGB, LSG Vs KKR, LSG Vs SRH, LSG Vs DC, LSG Vs PNGB, KKR Vs SRH, KKR Vs DC, KKR Vs PNGB, SRH Vs DC, SRH Vs PNGB, DC Vs PNGB]
+MI: Total Matches Played:--> 9| Won:--> 7 |Lost:-->2| Points:--> 16
+--------------------------------------------------------------------------------------------
+RR: Total Matches Played:--> 9| Won:--> 4 |Lost:-->5| Points:--> 13
+--------------------------------------------------------------------------------------------
+RCB: Total Matches Played:--> 9| Won:--> 6 |Lost:-->3| Points:--> 15
+--------------------------------------------------------------------------------------------
+CSK: Total Matches Played:--> 9| Won:--> 3 |Lost:-->6| Points:--> 12
+--------------------------------------------------------------------------------------------
+GG: Total Matches Played:--> 9| Won:--> 3 |Lost:-->6| Points:--> 12
+--------------------------------------------------------------------------------------------
+LSG: Total Matches Played:--> 9| Won:--> 4 |Lost:-->5| Points:--> 13
+--------------------------------------------------------------------------------------------
+KKR: Total Matches Played:--> 9| Won:--> 4 |Lost:-->5| Points:--> 13
+--------------------------------------------------------------------------------------------
+SRH: Total Matches Played:--> 9| Won:--> 6 |Lost:-->3| Points:--> 15
+--------------------------------------------------------------------------------------------
+DC: Total Matches Played:--> 9| Won:--> 4 |Lost:-->5| Points:--> 13
+--------------------------------------------------------------------------------------------
+PNGB: Total Matches Played:--> 9| Won:--> 4 |Lost:-->5| Points:--> 13
+--------------------------------------------------------------------------------------------
